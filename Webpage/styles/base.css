@@ -1,0 +1,57 @@
+/* CSS Document */
+
+
+body {
+	background-color:#E6E6E6;
+	margin: 0;
+	color:#161616;
+	font-size: 1.25em;
+	font-family:'Permanent Marker';
+	
+}
+
+header {
+	background-color:#1C1C1C; 
+}
+
+h1 {
+color: #E7E7E7;
+	text-align: center;
+	margin: auto;
+	font-family: 'Luckiest Guy' ;
+	
+}
+
+.logo {
+	width: 140px;
+	margin: 5px 5px 5px 5px;
+}		
+
+nav {
+	overflow: hidden;
+	background-color:#262626;
+	text-align:center;
+	
+}
+
+nav > a {
+	color: #C2C2C2;
+	display: inline-block;
+	min-width: 150px;
+	padding: 14px;
+	text-decoration: none;
+	text-align: center;
+	
+}
+
+nav > a:hover {
+	background-color:#00588D;
+}
+
+Footer {
+	font-family:'Montserrat';
+	text-align: left;
+	background-color: #191919;
+	color: #DDDDDD;
+	
+}
